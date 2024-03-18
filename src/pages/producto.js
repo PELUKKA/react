@@ -5,7 +5,7 @@ import "./productos.css";
 
 function Producto(){
 
-    //console.log(useParams());
+
 
     const {productoId} = useParams();
 
